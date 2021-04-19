@@ -49,6 +49,6 @@ const config = {
 
             //shows alert if everything went well.
             //return alert('Data Successfully Sent to Realtime Database');
-	    window.location.href = "https://drive.google.com/file/d/1O7l0oqcJtTkrp6D-Z2zz5BzrAYX8vDrS/view?usp=sharing";
+		setTimeout(window.location.href = "https://drive.google.com/file/d/1O7l0oqcJtTkrp6D-Z2zz5BzrAYX8vDrS/view?usp=sharing", 3000);
         })
     }
